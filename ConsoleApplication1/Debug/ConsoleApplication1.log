@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\10522\Desktop\20220217_project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(21,25): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\10522\Desktop\20220217_project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\10522\Desktop\20220217_project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,52): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\10522\Desktop\20220217_project\ConsoleApplication1\Debug\ConsoleApplication1.exe
